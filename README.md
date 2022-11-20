@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Desenvolvedor Full-Stack
 <p align="left"> 
-  Atualmente Trabalho como bolsista no projeto de extenção na faculdade onde estou completando a Graduando  no IFC - Campus Camboriu no curso de <strong>Tecnologia de Sistemas para internet</strong>. Tambem ministro aulas como professor de programação<br>
+  Atualmente Trabalho como bolsista no projeto de extenção na faculdade onde estou completando a Graduando  no IFC - Campus Camboriu no curso de <strong>Tecnologia de Sistemas para internet</strong>. Tambem ministro aulas como professor de programação na RTI <strong>Rede de teinamento e informática</strong><br>
 </p> 
 
 
@@ -45,14 +45,21 @@ You can click the Preview link to take a look at your changes.
 ### Experiência de trabalho
 Minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="94px" width="94px" alt="Pet-camboriu" src="https://www.pet.ifc-camboriu.edu.br/wp-content/uploads/2018/10/Logo-PET.png"/>](https://www.pet.ifc-camboriu.edu.br/)
+[<img align="left" height="94px" width="94px" alt="RTI cursos e sites" src="https://www.aquicursos.com.br/images/logo.png"/>](https://www.aquicursos.com.br/)
+**Professor** \
+[**RTI**](https://www.aquicursos.com.br/) • Professor \
+11-2022 • Atualmente\
+Linguagens & Tecnologias: `Unity`, `C++`, `JavaScript`, `Logica de Programação`,`HTML`,`CSS`\
+<br/>
 
+[<img align="left" height="94px" width="94px" alt="Pet-camboriu" src="https://www.pet.ifc-camboriu.edu.br/wp-content/uploads/2018/10/Logo-PET.png"/>](https://www.pet.ifc-camboriu.edu.br/)
 **Iniciação Cientifica** \
 [**Pet**](https://www.pet.ifc-camboriu.edu.br/) • Bolsista \
 03-2021 • Atualmente\
 Linguagens & Tecnologias: `WordPress`, `Figma`, `C++`, `JavaScript`, `Arduino`, `Escrita de Artigos`\
 Projetos em destaque: [Composteira](https://github.com/Pquar/Composteira)
 <br/>
+
 
 <br/>
 <br/>
