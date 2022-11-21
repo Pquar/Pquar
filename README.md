@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&theme=dracula&line_height=27" alt="**Cleiton Araujo** github stats"/>
 </a>
 
-### Experiência de trabalho
+<!-- ### Experiência de trabalho
 Minhas experiências de trabalho mais recentes:
 
 [<img align="left" height="94px" width="94px" alt="RTI cursos e sites" src="https://www.aquicursos.com.br/images/logo.png"/>](https://www.aquicursos.com.br/)
@@ -60,7 +60,7 @@ Linguagens & Tecnologias: `Unity`, `C++`, `JavaScript`, `Logica de Programação
 03-2021 • Atualmente\
 Linguagens & Tecnologias: `WordPress`, `Figma`, `C++`, `JavaScript`, `Arduino`, `Escrita de Artigos`\
 Projetos em destaque: [Composteira](https://github.com/Pquar/Composteira)
-<br/>
+<br/> -->
 
 
 <br/>
