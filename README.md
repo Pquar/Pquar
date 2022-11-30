@@ -36,20 +36,21 @@ You can click the Preview link to take a look at your changes.
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/pquar">
+<!-- <a href="https://github.com/pquar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pquar&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/pquar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&theme=dracula&line_height=27" alt="*Cleiton Araujo* github stats"/>
 
-</a>
-
+</a> -->
+<!-- <a href="https://github.com/pquar"> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pquar&show_icons=true&locale=en&layout=compact" alt="Cleiton" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&locale=en" alt="Cleiton" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pquar&" alt="Cleiton" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pquar&" alt="Cleiton" /></p> -->
+<!--   </a> -->
 <!-- ### Experiência de trabalho
 Minhas experiências de trabalho mais recentes:
 
@@ -68,11 +69,7 @@ Linguagens & Tecnologias: `WordPress`, `Figma`, `C++`, `JavaScript`, `Arduino`, 
 Projetos em destaque: [Composteira](https://github.com/Pquar/Composteira)
 <br/> -->
 
-
-<br/>
-<br/>
-
-Qualquer duvida, encontre-me no [LinkedIn](https://www.linkedin.com/in/cleiton-araujo-moura/) la tambem tera um uma descrição mais detalhada das minhas experiências de trabalho, educação e certificações.
+Qualquer duvida, encontre-me no [LinkedIn](https://www.linkedin.com/in/cleiton-araujo-moura/), onde tem uma descrição mais detalhada das minhas experiências de trabalho, educação e certificações.
 
 <!---
 [website]: https://www.github.com/pquar
