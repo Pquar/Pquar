@@ -41,9 +41,15 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/pquar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&theme=dracula&line_height=27" alt="**Cleiton Araujo** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&theme=dracula&line_height=27" alt="*Cleiton Araujo* github stats"/>
+
 </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pquar&show_icons=true&locale=en&layout=compact" alt="Cleiton" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pquar&show_icons=true&locale=en" alt="Cleiton" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pquar&" alt="Cleiton" /></p>
 <!-- ### Experiência de trabalho
 Minhas experiências de trabalho mais recentes:
 
