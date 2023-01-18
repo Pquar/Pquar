@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Desenvolvedor Full-Stack
 <p align="left"> 
-  Atualmente sou desenvolvedor full-stack, mas comumente trabalho mais na stack de front-End, ja atuei como bolsista no projeto de extenção na faculdade onde estou completando a Graduando  no IFC - Campus Camboriu no curso de <strong>Tecnologia de Sistemas para internet</strong>. Tambem ministro aulas como professor de programação.<br>
+  Atualmente sou desenvolvedor full-stack, mas comumente trabalho mais na stack de front-End, ja atuei como bolsista no projeto de extenção na faculdade onde estou completando a Graduando  no IFC - Campus Camboriu no curso de <strong>Tecnologia de Sistemas para internet</strong><br>
 </p> 
 
 
