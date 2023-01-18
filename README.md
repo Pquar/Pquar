@@ -68,9 +68,9 @@ Linguagens & Tecnologias: `Unity`, `C++`, `JavaScript`, `Logica de Programação
 Linguagens & Tecnologias: `WordPress`, `Figma`, `C++`, `JavaScript`, `Arduino`, `Escrita de Artigos`\
 Projetos em destaque: [Composteira](https://github.com/Pquar/Composteira)
 <br/> -->
-
+<!---
 Qualquer duvida, encontre-me no [LinkedIn](https://www.linkedin.com/in/cleiton-araujo-moura/), onde tem uma descrição mais detalhada das minhas experiências de trabalho, educação e certificações.
-
+--->
 <!---
 [website]: https://www.github.com/pquar
 <br>
