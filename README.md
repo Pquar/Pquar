@@ -4,10 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Ola Sou Cleiton Araujo 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Desenvolvedor Full-Stack
+<!---## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Desenvolvedor Full-Stack--->
 <p align="left"> 
-  Atualmente sou desenvolvedor full-stack, mas comumente trabalho mais na stack de front-End, ja atuei como bolsista no projeto de extenção na faculdade onde estou completando a Graduando  no IFC - Campus Camboriu no curso de <strong>Tecnologia de Sistemas para internet</strong><br>
+  Atualmente sou desenvolvedor full-stack jr, durante minha jornada acadêmica, tive a oportunidade de atuar como bolsista em um projeto de extensão, onde pude aplicar meus conhecimentos teóricos na prática, trabalhando em equipe e colaborando para alcançar os objetivos do projeto. Essa experiência me permitiu desenvolver habilidades de resolução de problemas, comunicação eficaz e trabalho em equipe.
 </p> 
+<!---   --->
 
 
 
